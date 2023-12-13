@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="proj-ind-looca-conexao-nuvem">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/proj-ind-looca-conexao-nuvem.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
